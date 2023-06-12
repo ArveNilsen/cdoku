@@ -24,3 +24,8 @@ Personally I found this project to be a nice introduction to arrays and pointers
 
 I have previously implemented variations of this in Python and Javascript.
 This proved to be a welcome change.
+
+## How to run it
+
+    git clone https://github.com/ArveNilsen/cdoku.git
+    make all
